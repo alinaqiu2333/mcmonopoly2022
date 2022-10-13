@@ -1,0 +1,5 @@
+drop table test if exists;
+CREATE TABLE mcd (
+	id int,
+	color varchar(255),
+);
